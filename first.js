@@ -15,4 +15,8 @@ class First {
     foo2() {
         console.log('This is foo2');
     }
+	bar3()
+	{
+		console.log("I am in bar 3");
+	}	
 }
