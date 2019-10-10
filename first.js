@@ -11,4 +11,8 @@ class First {
 	{
 		console.log("I am in bar");
 	}
+	bar3()
+	{
+		console.log("I am in bar 3");
+	}	
 }
