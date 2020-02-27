@@ -1,6 +1,7 @@
 class First {
     foo() {
         console.log("This is foo");
+	// some changes
     }
 	bar()
 	{
